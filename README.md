@@ -1,2 +1,2 @@
 # CUHK_Resources
-All the study materials for FTEC major.
+All the study materials for FTEC major from 21-25
