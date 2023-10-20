@@ -1,0 +1,388 @@
+Enter the number of human players [1-2]:
+2
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+1
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|O| | | | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+1
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+1
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+1
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+1
+| | | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+1
+|X| | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+2
+|X| | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O|O| | | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+2
+|X| | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+2
+|X| | | | | | |
+|O| | | | | | |
+|X| | | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+2
+|X| | | | | | |
+|O| | | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+2
+|X| | | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+2
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+3
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O|O| | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+3
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+3
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X| | | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+3
+|X|X| | | | | |
+|O|O| | | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+3
+|X|X| | | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+3
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+5
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| |O| | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+5
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+5
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| | | | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+5
+|X|X|X| | | | |
+|O|O|O| | | | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+5
+|X|X|X| | | | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+5
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+6
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O|O| |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+6
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+6
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X| | |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+6
+|X|X|X| |X| | |
+|O|O|O| |O| | |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+6
+|X|X|X| |X| | |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+ 1 2 3 4 5 6 7
+Player 2's turn:
+6
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+ 1 2 3 4 5 6 7
+Player 1's turn:
+7
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O|O|
+ 1 2 3 4 5 6 7
+Player 2's turn:
+7
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X|X|
+|O|O|O| |O|O|O|
+ 1 2 3 4 5 6 7
+Player 1's turn:
+7
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X| |
+|O|O|O| |O|O|O|
+|X|X|X| |X|X|X|
+|O|O|O| |O|O|O|
+ 1 2 3 4 5 6 7
+Player 2's turn:
+7
+|X|X|X| |X|X| |
+|O|O|O| |O|O| |
+|X|X|X| |X|X|X|
+|O|O|O| |O|O|O|
+|X|X|X| |X|X|X|
+|O|O|O| |O|O|O|
+ 1 2 3 4 5 6 7
+Player 1's turn:
+7
+|X|X|X| |X|X| |
+|O|O|O| |O|O|O|
+|X|X|X| |X|X|X|
+|O|O|O| |O|O|O|
+|X|X|X| |X|X|X|
+|O|O|O| |O|O|O|
+ 1 2 3 4 5 6 7
+Player 2's turn:
+4
+|X|X|X| |X|X| |
+|O|O|O| |O|O|O|
+|X|X|X| |X|X|X|
+|O|O|O| |O|O|O|
+|X|X|X| |X|X|X|
+|O|O|O|X|O|O|O|
+ 1 2 3 4 5 6 7
+Player 1's turn:
+4
+|X|X|X| |X|X| |
+|O|O|O| |O|O|O|
+|X|X|X| |X|X|X|
+|O|O|O| |O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+ 1 2 3 4 5 6 7
+Player 2's turn:
+4
+|X|X|X| |X|X| |
+|O|O|O| |O|O|O|
+|X|X|X| |X|X|X|
+|O|O|O|X|O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+ 1 2 3 4 5 6 7
+Player 1's turn:
+4
+|X|X|X| |X|X| |
+|O|O|O| |O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+ 1 2 3 4 5 6 7
+Player 2's turn:
+4
+|X|X|X| |X|X| |
+|O|O|O|X|O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+ 1 2 3 4 5 6 7
+Player 1's turn:
+4
+|X|X|X|O|X|X| |
+|O|O|O|X|O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+ 1 2 3 4 5 6 7
+Player 2's turn:
+7
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+|X|X|X|O|X|X|X|
+|O|O|O|X|O|O|O|
+ 1 2 3 4 5 6 7
+Draw game.
